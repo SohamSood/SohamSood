@@ -1,133 +1,87 @@
-```md
-<h1 align="center">Hi there 👋, I'm Soham Sood</h1>
-
-<h3 align="center">Computer Science Engineering Student • DSA Enthusiast • Aspiring Software Engineer</h3>
+<h1 align="center">Hey 👋, I'm Soham Sood</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=475%2B+LeetCode+Problems+Solved;340%2B+Medium+Problems;Passionate+about+Problem+Solving;Always+Learning+Something+New!" />
+  <b>Computer Science Engineering Student</b><br>
+  💻 DSA Enthusiast • 🚀 Aspiring Software Engineer • 🌱 Lifelong Learner
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 Computer Science Engineering Student
+```cpp
+while(alive){
+    Learn();
+    Code();
+    Debug();
+    Repeat();
+}
+```
 
-💡 Passionate about solving challenging algorithmic problems and writing efficient code.
+- 🎓 CSE Student
+- 🧠 475+ LeetCode Problems Solved
+- 📈 340+ Medium Problems
+- 💡 Interested in System Design, Linux & Backend
+- 🎯 Goal: Become a Software Engineer
 
-🧠 Solved **475+ LeetCode problems**, including **340+ Medium** problems.
+---
 
-🌱 Currently exploring:
-- Operating Systems
-- Computer Networks
+## 🛠 Tech Stack
+
+💻 Languages
+- C++
+- Java
+- JavaScript
+
+🌐 Web
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+⚙️ Tools
+- Git
+- GitHub
+- VS Code
 - Linux
-- System Design
-- Backend Development
-
-🎯 Goal:
-> To become a Software Engineer who builds scalable and impactful software.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Featured Projects
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+🏥 Hospital Management System
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+💊 MedHelp
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
-
-## 📂 Featured Projects
-
-### 🏥 Hospital Management System
-- Role-based authentication
-- Appointment & patient management
-- Billing system
-- React • Node.js • Express • MongoDB
-
----
-
-### 💊 MedHelp
-Medication Interaction Checker
-
-- Drug interaction detection
-- User authentication
-- MERN Stack
-
----
-
-### 💰 Expense Tracker
-
-- Track income & expenses
-- Monthly analytics
-- Clean UI
-
----
-
-## 📈 Coding Journey
-
-- ✅ 475+ LeetCode Problems
-- ✅ Strong in Data Structures & Algorithms
-- ✅ Consistently improving problem-solving skills
-- ✅ Focused on writing clean and optimized code
+💰 Expense Tracker
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect
 
-📧 Email: your-email@example.com
-
-💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-
-💻 LeetCode: https://leetcode.com/u/Soham__Sood/
-
-🌟 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
----
-
-## ✨ Quote
-
-> *"Success isn't built in a day. It's built every day."*
+- 💼 LinkedIn
+- 💻 LeetCode
+- 📫 Email
 
 ---
 
 <p align="center">
-
-⭐ Thanks for visiting my profile!
-
-Happy Coding 🚀
-
+<i>"Consistency beats intensity."</i>
 </p>
-```
