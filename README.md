@@ -20,13 +20,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> </p>
 ---
 
 ## 👨‍💻 About Me
@@ -62,6 +56,8 @@ while(alive){
 - HTML5
 - CSS3
 - JavaScript
+- React.js
+- Next.js
 
 ### ⚙️ Backend & Database
 - Node.js
@@ -81,31 +77,48 @@ while(alive){
 - Git
 - GitHub
 - Linux
+
 ## 🚀 Featured Projects
 
-- 🏥 **Hospital Management System**  
-  Full-stack hospital management platform with role-based dashboards, appointment scheduling, patient records, and prescription verification.  
-  🔗 https://hospital-management-system-here.vercel.app
+**-** 💻 **\*\*CodeBench – Online Coding Platform\*\***
 
-- 💊 **MedHelp – Medication Interaction Checker**  
-  MERN-stack application that analyzes prescriptions and detects potential drug interactions using external APIs.  
-  🔗 https://ai-powered-health-care-platform.vercel.app
+Browser-based coding practice platform with multi-language execution, custom test cases, and AI-assisted code analysis.
 
-- 💰 **Expense Tracker**  
-  Full-stack expense tracking application with interactive dashboards, transaction categorization, and RESTful APIs.  
-  🔗 https://expense-tracker-iota-silk.vercel.app
+🔗 [https://codebench-five.vercel.app](https://codebench-five.vercel.app)
 
----
+**-** ⚙️ **\*\*MiniLang – Compiler in C\*\***
+
+Lightweight programming language implementation built from scratch in C with lexical analysis, parsing, AST construction, and expression evaluation.
+
+🔗 [GitHub Repository](https://github.com/SohamSood/MiniLang)
+
+**-** 💊 **\*\*MedHelp – Medication Interaction Checker\*\***
+
+MERN-stack application that analyzes prescriptions and detects potential drug interactions using external APIs.
+
+🔗 [https://ai-powered-health-care-platform.vercel.app](https://ai-powered-health-care-platform.vercel.app)
+
+**-** 🏥 **\*\*Hospital Management System\*\***
+
+Full-stack hospital management platform with role-based dashboards, appointment scheduling, patient records, and prescription verification.
+
+🔗 [https://hospital-management-system-here.vercel.app](https://hospital-management-system-here.vercel.app)
+
+**-** 💰 **\*\*Expense Tracker\*\***
+
+Full-stack expense tracking application with interactive dashboards, transaction categorization, and RESTful APIs.
+
+🔗 [https://expense-tracker-iota-silk.vercel.app](https://expense-tracker-iota-silk.vercel.app)
+
+**---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohamSood&show_icons=true&theme=github_dark)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=SohamSood&theme=github-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamSood&layout=compact&theme=github_dark)
 
 ## 🌐 Connect
 
