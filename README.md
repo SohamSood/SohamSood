@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=SohamSood&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views"/> </p>
 <h1 align="center">Hey 👋, I'm Soham Sood</h1>
 
 <p align="center">
@@ -132,3 +133,4 @@ Full-stack expense tracking application with interactive dashboards, transaction
 <p align="center">
 <i>"Consistency beats intensity."</i>
 </p>
+
